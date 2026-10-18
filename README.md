@@ -5,7 +5,7 @@
 A Go gateway for **OpenCode Zen and Zen Go**. It exposes Chat Completions, Responses, and Anthropic Messages endpoints, translates between their native protocols, and manages upstream keys and proxies.
 
 The executable includes the WebUI. Running the service requires no Node.js runtime or database.
-
+push
 ## Capabilities
 
 - JSON and SSE responses across all three inference protocols.
